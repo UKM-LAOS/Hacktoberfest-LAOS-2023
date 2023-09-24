@@ -6,7 +6,7 @@ function App() {
     <>
       <Navbar />
       <h1 className="text-neutral-800 my-4 text-4xl font-black_ops_one text-center">
-        Daftar Projek Peserta <br /> Pelatihan GIT 2023
+        Daftar Projek Peserta test <br /> Pelatihan GIT 2023
       </h1>
       <section className="grid xl:grid-cols-4 lg:grid-cols-3 grid-cols-2 gap-4 container mx-auto">
         <ProjectCard
