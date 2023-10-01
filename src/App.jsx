@@ -15,6 +15,16 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+        <ProjectCard
+          // Ini diisi link menuju produk atau karya kebanggaan kalian. Link Intagram kalian
+          link="https://github.com/orymikoto/zaatani-application" 
+          // Ini diisi sebagai Judulnya
+          title="Zaatani Application"
+          // (Optional Ini untuk gambar)
+          imagepath="/images/202410102042.jpg"
+          // Deskripsi karya kalian
+          description="Ini adalah repository zaatani application by orymikoto"
+        />
       </section>
     </>
   );
