@@ -15,6 +15,12 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+        <ProjectCard
+          link="https://muhammadfirstahp.wixsite.com/etikaprofesi"
+          title="Firsta's Blog"
+          imagepath="/images/232410102063.png"
+          description="Ini adalah link resume terkait materi mata kuliah Etika Profesi pada setiap pertemuan by Firsta."
+        />
       </section>
     </>
   );
