@@ -15,6 +15,12 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+        <ProjectCard
+          link="https://github.com/vanvl49/E-Transaksi"
+          title="Program E-Transaksi"
+          imagepath="/images/232410102029.jpg"
+          description="Ini adalah link repository program E-Transaksi, Program sederhana untuk mencatat data transaksi."
+        />
       </section>
     </>
   );
