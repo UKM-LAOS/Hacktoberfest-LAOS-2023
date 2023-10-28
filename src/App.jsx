@@ -18,7 +18,7 @@ function App() {
          <ProjectCard
           link="https://docs.google.com/document/d/1bGs8WzXcVtorE26g_niK53U4qNlql66XuICoHU7VYxs/edit?usp=drivesdk"
           title="NANDINI  APPLICATION"
-          imagepath="/images/232410103024.jpg"
+          imagepath="/images/3024_nandini putri.jpg"
           description="Ini adalah link repository github terbaru"
         />
       </section>
