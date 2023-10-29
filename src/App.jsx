@@ -15,6 +15,12 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+        <ProjectCard
+          link="https://github.com/dian2051isna/first_program"
+          title="Penentu Jenis dan Rentang Angka"
+          imagepath="/images/232410102051.jpg"
+          description="Ini adalah repository aplikasi simpel saya untuk Hacktoberfest 2023."
+        />
       </section>
     </>
   );
