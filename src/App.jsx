@@ -15,6 +15,12 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+        <ProjectCard
+          link="https://github.com/chiwst/libra.ly"
+          title="Libra.ly"
+          imagepath="/images/232410103001.jpg"
+          description="Repository ini berisi proyek akhir mata kuliah Algoritma & Pemrograman I kelompok saya."
+        />
       </section>
     </>
   );
