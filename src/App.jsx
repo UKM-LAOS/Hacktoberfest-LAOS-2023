@@ -15,6 +15,12 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+         <ProjectCard
+          link="https://docs.google.com/document/d/1bGs8WzXcVtorE26g_niK53U4qNlql66XuICoHU7VYxs/edit?usp=drivesdk"
+          title="NANDINI  APPLICATION"
+          imagepath="/images/232410103024_NANDINI PUTRI H.J..jpg"
+          description="Ini adalah link repository github terbaru"
+        />
       </section>
     </>
   );
