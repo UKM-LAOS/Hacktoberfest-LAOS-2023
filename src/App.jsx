@@ -15,6 +15,12 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+          <ProjectCard
+          link="https://satya747.wordpress.com/"
+          title="Github Hacktoberfest"
+          imagepath="/images/blog.jpg"
+          description="Ini adalah blog yang sedang saya buat tentang etprof, silahkan di klik."
+        />
       </section>
     </>
   );
