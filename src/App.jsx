@@ -15,6 +15,12 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+        <ProjectCard
+          link="https://www.figma.com/file/kZTqOTAAZjOIGD9KUbbcPK/Coding-Education-Mobile-App-(Community)?type=design&node-id=0%3A1&mode=design&t=z6Nlydi3JCmapTQI-1"
+          title="Design UI Figma"
+          imagepath="/images/232410102073.png"
+          description="Ini adalah repository figma by arya aji."
+        />
       </section>
     </>
   );
