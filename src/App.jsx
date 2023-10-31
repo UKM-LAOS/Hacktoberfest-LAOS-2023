@@ -15,6 +15,12 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+        <ProjectCard
+          link="https://codepen.io/ilfandika/full/mdBMNZK"
+          title="Form Change Color"
+          imagepath="/images/232410103057.jpg"
+          description="Ini adalah link dari karya saya dicodepen berupa form ubah warna"
+        />
       </section>
     </>
   );
