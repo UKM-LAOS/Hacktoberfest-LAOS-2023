@@ -10,10 +10,10 @@ function App() {
       </h1>
       <section className="grid xl:grid-cols-4 lg:grid-cols-3 grid-cols-2 gap-4 container mx-auto">
         <ProjectCard
-          link="https://github.com/UKM-LAOS/Hacktoberfest-LAOS-2023"
-          title="Github Hacktoberfest"
-          imagepath="/images/example.jpg"
-          description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
+          link="https://www.instagram.com/p/CwKSX9ouLyU/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="
+          title="hot wheels titipan"
+          imagepath="/images/232410103090.png"
+          description="Ini adalah hasil karya saya, tetapi milik orang"
         />
       </section>
     </>
