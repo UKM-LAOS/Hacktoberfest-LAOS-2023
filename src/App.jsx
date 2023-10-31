@@ -15,6 +15,12 @@ function App() {
           imagepath="/images/example.jpg"
           description="Ini adalah link repository github LAOS Hacktoberfest 2023. Silahkan klik card, maka anda akan diarahkan."
         />
+        <ProjectCard
+          link="https://www.canva.com/design/DAFwrdh_tvA/v8G0gRlWoZcrKIYaIA3Tlg/edit"
+          title="Poster Tema Batik"
+          imagepath="/images/232410101060.png"
+          description="Ini adalah hasil pembuatan poster ketiga saya yang mulai berkembang."
+        />
       </section>
     </>
   );
